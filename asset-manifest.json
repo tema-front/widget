@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/widget/static/css/main.fe5a541a.css",
-    "main.js": "/widget/static/js/main.f450c8ff.js",
+    "main.css": "/widget/static/css/main.a9851ef7.css",
+    "main.js": "/widget/static/js/main.3ec20fb9.js",
+    "static/media/ProximaNova-Semibold.eot": "/widget/static/media/ProximaNova-Semibold.4d878f520a275616509b.eot",
+    "static/media/ProximaNova-Regular.eot": "/widget/static/media/ProximaNova-Regular.d97f8f32c098b28c3ab0.eot",
+    "static/media/ProximaNova-Semibold.ttf": "/widget/static/media/ProximaNova-Semibold.be42827ac88aca64dbf0.ttf",
+    "static/media/ProximaNova-Regular.ttf": "/widget/static/media/ProximaNova-Regular.b078618b41b9b6629ea0.ttf",
+    "static/media/ProximaNova-Bold.eot": "/widget/static/media/ProximaNova-Bold.787088b281e017f8c449.eot",
+    "static/media/ProximaNova-Bold.ttf": "/widget/static/media/ProximaNova-Bold.7722451a8c88b6100185.ttf",
     "static/media/CircularStd-Bold.otf": "/widget/static/media/CircularStd-Bold.5c4514a8399ec0064b9b.otf",
     "static/media/CircularStd-Medium.otf": "/widget/static/media/CircularStd-Medium.9ffafeddf192e8c8a111.otf",
+    "static/media/ProximaNova-Regular.woff": "/widget/static/media/ProximaNova-Regular.99528640efded3e12591.woff",
+    "static/media/ProximaNova-Bold.woff": "/widget/static/media/ProximaNova-Bold.1f267da183b3d4fe3d5b.woff",
+    "static/media/ProximaNova-Semibold.woff": "/widget/static/media/ProximaNova-Semibold.a71877a1eef65838ed4c.woff",
     "index.html": "/widget/index.html",
-    "main.fe5a541a.css.map": "/widget/static/css/main.fe5a541a.css.map",
-    "main.f450c8ff.js.map": "/widget/static/js/main.f450c8ff.js.map"
+    "main.a9851ef7.css.map": "/widget/static/css/main.a9851ef7.css.map",
+    "main.3ec20fb9.js.map": "/widget/static/js/main.3ec20fb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe5a541a.css",
-    "static/js/main.f450c8ff.js"
+    "static/css/main.a9851ef7.css",
+    "static/js/main.3ec20fb9.js"
   ]
 }
