@@ -1,7 +1,15 @@
 {
   "files": {
-    "main.css": "/widget/static/css/main.a9851ef7.css",
-    "main.js": "/widget/static/js/main.3ec20fb9.js",
+    "main.css": "/widget/static/css/main.02b468f7.css",
+    "main.js": "/widget/static/js/main.8f070d66.js",
+    "static/media/EuclidSquare-Medium.eot": "/widget/static/media/EuclidSquare-Medium.be7f5486db564b81a5e2.eot",
+    "static/media/EuclidSquare-Regular.eot": "/widget/static/media/EuclidSquare-Regular.417d108aaabc7951cc23.eot",
+    "static/media/EuclidSquare-SemiBold.eot": "/widget/static/media/EuclidSquare-SemiBold.479e1ade50a455dee811.eot",
+    "static/media/EuclidSquare-Medium.ttf": "/widget/static/media/EuclidSquare-Medium.61fa6c7ddc7c192075dd.ttf",
+    "static/media/EuclidSquare-Regular.ttf": "/widget/static/media/EuclidSquare-Regular.446681644476338def3c.ttf",
+    "static/media/EuclidSquare-SemiBold.ttf": "/widget/static/media/EuclidSquare-SemiBold.6c51b0602cb435b79aac.ttf",
+    "static/media/EuclidSquare-Bold.eot": "/widget/static/media/EuclidSquare-Bold.227166130a2ac1b654c7.eot",
+    "static/media/EuclidSquare-Bold.ttf": "/widget/static/media/EuclidSquare-Bold.dd31ecd932c33efba1ed.ttf",
     "static/media/ProximaNova-Semibold.eot": "/widget/static/media/ProximaNova-Semibold.4d878f520a275616509b.eot",
     "static/media/ProximaNova-Regular.eot": "/widget/static/media/ProximaNova-Regular.d97f8f32c098b28c3ab0.eot",
     "static/media/ProximaNova-Semibold.ttf": "/widget/static/media/ProximaNova-Semibold.be42827ac88aca64dbf0.ttf",
@@ -13,12 +21,20 @@
     "static/media/ProximaNova-Regular.woff": "/widget/static/media/ProximaNova-Regular.99528640efded3e12591.woff",
     "static/media/ProximaNova-Bold.woff": "/widget/static/media/ProximaNova-Bold.1f267da183b3d4fe3d5b.woff",
     "static/media/ProximaNova-Semibold.woff": "/widget/static/media/ProximaNova-Semibold.a71877a1eef65838ed4c.woff",
+    "static/media/EuclidSquare-Medium.woff": "/widget/static/media/EuclidSquare-Medium.8026c8db30dba86056e4.woff",
+    "static/media/EuclidSquare-SemiBold.woff": "/widget/static/media/EuclidSquare-SemiBold.1d008e5f0355a7f1094b.woff",
+    "static/media/EuclidSquare-Regular.woff": "/widget/static/media/EuclidSquare-Regular.5c5dedb1f441f6a6b703.woff",
+    "static/media/EuclidSquare-Bold.woff": "/widget/static/media/EuclidSquare-Bold.22d0be7b93dfada5df1b.woff",
+    "static/media/EuclidSquare-Medium.woff2": "/widget/static/media/EuclidSquare-Medium.38b620d29e710428df89.woff2",
+    "static/media/EuclidSquare-SemiBold.woff2": "/widget/static/media/EuclidSquare-SemiBold.add20958923657428cf0.woff2",
+    "static/media/EuclidSquare-Regular.woff2": "/widget/static/media/EuclidSquare-Regular.72068a4763345b600384.woff2",
+    "static/media/EuclidSquare-Bold.woff2": "/widget/static/media/EuclidSquare-Bold.241cd0d58605ad428571.woff2",
     "index.html": "/widget/index.html",
-    "main.a9851ef7.css.map": "/widget/static/css/main.a9851ef7.css.map",
-    "main.3ec20fb9.js.map": "/widget/static/js/main.3ec20fb9.js.map"
+    "main.02b468f7.css.map": "/widget/static/css/main.02b468f7.css.map",
+    "main.8f070d66.js.map": "/widget/static/js/main.8f070d66.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9851ef7.css",
-    "static/js/main.3ec20fb9.js"
+    "static/css/main.02b468f7.css",
+    "static/js/main.8f070d66.js"
   ]
 }
