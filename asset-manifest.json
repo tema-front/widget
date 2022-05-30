@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/widget/static/css/main.894e323e.css",
-    "main.js": "/widget/static/js/main.b2e9df4f.js",
+    "main.css": "/widget/static/css/main.e2b55c60.css",
+    "main.js": "/widget/static/js/main.bd23e95a.js",
     "static/media/EuclidSquare-Medium.eot": "/widget/static/media/EuclidSquare-Medium.be7f5486db564b81a5e2.eot",
     "static/media/EuclidSquare-Regular.eot": "/widget/static/media/EuclidSquare-Regular.417d108aaabc7951cc23.eot",
     "static/media/EuclidSquare-SemiBold.eot": "/widget/static/media/EuclidSquare-SemiBold.479e1ade50a455dee811.eot",
@@ -30,11 +30,11 @@
     "static/media/EuclidSquare-Regular.woff2": "/widget/static/media/EuclidSquare-Regular.72068a4763345b600384.woff2",
     "static/media/EuclidSquare-Bold.woff2": "/widget/static/media/EuclidSquare-Bold.241cd0d58605ad428571.woff2",
     "index.html": "/widget/index.html",
-    "main.894e323e.css.map": "/widget/static/css/main.894e323e.css.map",
-    "main.b2e9df4f.js.map": "/widget/static/js/main.b2e9df4f.js.map"
+    "main.e2b55c60.css.map": "/widget/static/css/main.e2b55c60.css.map",
+    "main.bd23e95a.js.map": "/widget/static/js/main.bd23e95a.js.map"
   },
   "entrypoints": [
-    "static/css/main.894e323e.css",
-    "static/js/main.b2e9df4f.js"
+    "static/css/main.e2b55c60.css",
+    "static/js/main.bd23e95a.js"
   ]
 }
